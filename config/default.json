@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://vietphuongdo511:A2092002z@connector.ng8ya.mongodb.net/?retryWrites=true&w=majority&appName=Connector",
+  "jwtToken": "phuongtoken"
+}
